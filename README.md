@@ -21,9 +21,9 @@ This repository contains the completed Level 1 tasks for the Web Development Int
 
 ## 🔗 How to Access
 Each project is in a separate folder:
-- `LandingPage/`
-- `Portfolio/`
-- `Calculator/`
+- `landing-page/`
+- `portfolio-website/`
+- `basic-calculator/`
 
 To run any project locally:
 1. Download the folder
